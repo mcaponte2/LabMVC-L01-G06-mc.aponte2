@@ -82,7 +82,6 @@ def loadBooksTags(control):
                                          "GoodReads/book_tags-small.csv")
     return booksTags
 
-
 # Se crea el controlador asociado a la vista
 control = newController()
 
